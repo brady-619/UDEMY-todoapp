@@ -1,0 +1,7 @@
+{
+  "name": "UDEMY-todoapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
